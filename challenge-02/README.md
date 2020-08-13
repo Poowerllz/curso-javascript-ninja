@@ -55,7 +55,7 @@ Validacao(3,2)
 //"Preencha todos os valores corretamente!"
 
 // Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
-Validacao(3,3,3
+Validacao(3,3,3)
 
 // Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
 
