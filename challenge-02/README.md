@@ -103,6 +103,6 @@ CalcNum(2);
 CalcNum(2,3)
 5
 //Três Argumentos//
-CalcNum(3,3,2)
+CalcNum(3,3,2);
 3
 ```
