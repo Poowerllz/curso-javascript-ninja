@@ -198,5 +198,5 @@ pessoa.Apresentacao = function () {
 
 // Agora, apresente-se ;)
 
-pessoa.Apresentacao() // Olá eu sou o Elzevir Sá tenho 19 anos, 1.75, meu peso é 60 e, só hoje, eu já caminhei 60 metros!
+pessoa.Apresentacao(); // Olá eu sou o Elzevir Sá tenho 19 anos, 1.75, meu peso é 60 e, só hoje, eu já caminhei 60 metros!
 ```
